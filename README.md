@@ -47,6 +47,7 @@ Notre cahier des charges :
         ◦ Scrapping
         ◦ ID de génie
 8. Favoriser le CTA call to Action
+9. Envoi de requetes sur Twitter à l'aide d'un bot
 ------------   
 
 
@@ -143,6 +144,8 @@ Aller sur les liens Heroku suivants
 
 
 # Résultats
+
+Réception de 500 mails grâce au bot Twitter.
 
 A vous de voir ;)
 
