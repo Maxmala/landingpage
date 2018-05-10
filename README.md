@@ -47,7 +47,7 @@ Notre cahier des charges :
         ◦ Scrapping
         ◦ ID de génie
 8. Favoriser le CTA call to Action
-9. Envoi de requetes sur Twitter à l'aide d'un bot
+
 ------------   
 
 
@@ -125,6 +125,8 @@ Aller sur les liens Heroku suivants
         c. Sur mailchimp.com paramétrer avec le site heroku  
     5. Ajout de Boostrap
         a. Insertion des liens boostrap (du CDN) dans application html  
+    6. Envoi de requetes sur Twitter à l'aide d'un bot
+	a. Compte Twitter : https://twitter.com/hackingproject_?lang=en
 
 -------------  choix des éléments -------------
 
